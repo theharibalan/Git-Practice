@@ -33,3 +33,50 @@
   border: none;
   border-radius: 5px;
 }
+
+/* Deals 5b */
+.deals-title{
+  font-size: 30px;
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.deals-desc{
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: red;
+  /* font-weight: bold; */
+}
+
+/* Brand 5f */
+.brand-title{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  margin-bottom:5px;
+}
+.span-brand-title{
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif;
+  opacity: .5;
+  font-weight: lighter;
+  /* color: red; */
+}
+.brand-desc{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  margin-top:0px;
+  margin-bottom: 10px;
+}
+.brand-declaration{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bold;
+}
+.brand-ref{
+  color:blue;
+}
